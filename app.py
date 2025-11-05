@@ -575,7 +575,7 @@ st.markdown("---")
 st.markdown("""
     <div style='text-align: center; color: #666; padding: 2rem; margin-top: 3rem;'>
         <p style='font-size: 0.9rem;'>
-            Made with ❤️ using AI & Machine Learning | 
+            Made using AI & Machine Learning | 
             <strong>AgriSense</strong> - Smart Farming Solutions
         </p>
         <p style='font-size: 0.8rem; margin-top: 0.5rem;'>
