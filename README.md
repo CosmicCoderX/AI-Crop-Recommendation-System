@@ -2,6 +2,8 @@
 
 A machine learning-powered web application that recommends the best crops based on soil and weather parameters.
 
+🚀 **[Live Demo](https://agrisense-crop-recommendation-system.streamlit.app/)** | 📂 **[GitHub Repository](https://github.com/CosmicCoderX/AI-Crop-Recommendation-System)**
+
 ## Screenshots
 
 <img width="1902" alt="Main Interface" src="https://github.com/user-attachments/assets/2ec830ad-9661-41c9-a8fa-efd7e8b5d3ec" />
